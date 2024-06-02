@@ -3,11 +3,11 @@
 title: Yiyang Bian
 
 # Name pronunciation (optional)
-name_pronunciation: Yi Young Bian
+# name_pronunciation: Yi Young Bian
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yiyang
+last_name: Bian
 
 # Status emoji
 status:
