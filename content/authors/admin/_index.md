@@ -47,8 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Database
+  - Data Management
+  - Machine Learning
   - Information Retrieval
 
 education:
@@ -61,8 +62,8 @@ education:
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.S Computer Science
+    institution: Case Western Reserve University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: B.S Computer Science
+    institution: Central China Normal University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Yiyang Bian is a PhD candidate at the University of California, Riverside, where I currently work in the Space Lab under the leadership of Professor Amr Magdy, engaged in mail related to spatial data computing, data management, data analysis and machine learning
+Yiyang Bian is a PhD candidate at the University of California, Riverside, where I currently work in the Space Lab under the leadership of Professor Amr Magdy, engaged in mail related to spatial data computing, data management, data analysis and machine learning.
