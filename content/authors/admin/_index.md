@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Yiyang Bian is a PhD candidate at the University of California, Riverside, where I currently work in the Space Lab under the leadership of Professor Amr Magdy, engaged in mail related to spatial data computing, data management, data analysis and machine learning.
+Yiyang Bian is a PhD candidate at the University of California, Riverside, where I currently work in the Center for Geospatial Sciences the leadership of Professor Amr Magdy, engaged in mail related to spatial data computing, data management, data analysis and machine learning.
