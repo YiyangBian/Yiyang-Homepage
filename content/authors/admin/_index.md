@@ -3,7 +3,7 @@
 title: Yiyang Bian
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yi Young Bian
 
 # Full name (for SEO)
 first_name: Shiung Wu
