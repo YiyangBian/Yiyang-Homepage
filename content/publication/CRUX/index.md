@@ -37,7 +37,7 @@ featured: true
 #   - name: Custom Link
 #     url: http://example.org
 
-url_pdf: "content\publication\CRUX\conference-paper.pdf"
+url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 url_code: ""
 url_dataset: ""
 url_poster: ""
