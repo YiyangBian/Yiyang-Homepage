@@ -31,26 +31,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Conference on Information and Knowledge Management (CIKM)*
+publication: In *Hugo Blox Builder Conference*
 publication_short: In *CIKM*
 
-abstract: Data analytical pipelines routinely involve various domain-specific
-data science models. Such models require expensive manual or
-training effort and often incur expensive validation costs (e.g., via
-scientific simulation analysis). Meanwhile, high-value models remain to be ad-hocly created, isolated, and underutilized for a broad
-community. Searching and accessing proper models for data analysis pipelines is desirable yet challenging for users without domain knowledge. This paper introduces ModsNet, a novel MODel
-SelectioN framework that only requires an Example daTaset. (1)
-We investigate the following problem: Given a library of pre-trained
-models, a limited amount of historical observations of their performance, and an “example” dataset as a query, return 𝑘 models that
-are expected to perform the best over the query dataset. (2) We formulate a regression problem and introduce a knowledge-enhanced
-framework using a model-data interaction graph. Unlike traditional
-methods, (1) ModsNet uses a dynamic, cost-bounded “probe-andselect” strategy to incrementally identify promising pre-trained
-models in a strict cold-start scenario (when a new dataset without
-any interaction with existing models is given). (2) To reduce the
-learning cost, we develop a clustering-based sparsification strategy
-to prune unpromising models and their interactions. (3) We showcase ModsNet built on top of a crowdsourced materials knowledge
-base platform. Our experiments verified its effectiveness, efficiency,
-and applications over real-world analytical pipelines
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -77,10 +61,10 @@ url_video: "https://youtube.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-#   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
