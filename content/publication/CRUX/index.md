@@ -37,7 +37,7 @@ featured: true
 #   - name: Custom Link
 #     url: http://example.org
 
-url_pdf: ""
+url_pdf: "content\publication\CRUX\conference-paper.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -68,10 +68,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
