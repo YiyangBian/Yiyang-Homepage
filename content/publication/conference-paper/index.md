@@ -34,13 +34,23 @@ publication_types: ["paper-conference"]
 publication: In *The Conference on Information and Knowledge Management (CIKM)*
 publication_short: In *CIKM*
 
-abstract: Data analytical pipelines routinely involve various domain-specific data science models. Such models require expensive manual or training effort and often incur expensive validation costs (e.g., via scientific simulation analysis). Meanwhile, high-value models remain to be ad-hocly created, isolated, and underutilized for a broad community. Searching and accessing proper models for data analysis pipelines is desirable yet challenging for users without domain knowledge. This paper introduces ModsNet, a novel MODel SelectioN framework that only requires an Example daTaset. (1) We investigate the following problem, Given a library of pre-trained
+abstract: Data analytical pipelines routinely involve various domain-specific
+data science models. Such models require expensive manual or
+training effort and often incur expensive validation costs (e.g., via
+scientific simulation analysis). Meanwhile, high-value models remain to be ad-hocly created, isolated, and underutilized for a broad
+community. Searching and accessing proper models for data analysis pipelines is desirable yet challenging for users without domain knowledge. This paper introduces ModsNet, a novel MODel
+SelectioN framework that only requires an Example daTaset. (1)
+We investigate the following problem: Given a library of pre-trained
 models, a limited amount of historical observations of their performance, and an “example” dataset as a query, return 𝑘 models that
-are expected to perform the best over the query dataset. (2) We formulate a regression problem and introduce a knowledge-enhanced framework using a model-data interaction graph. Unlike traditional methods, (1) ModsNet uses a dynamic, cost-bounded “probe-andselect” strategy to incrementally identify promising pre-trained models in a strict cold-start scenario (when a new dataset without
-any interaction with existing models is given). (2) To reduce the learning cost, we develop a clustering-based sparsification strategy
+are expected to perform the best over the query dataset. (2) We formulate a regression problem and introduce a knowledge-enhanced
+framework using a model-data interaction graph. Unlike traditional
+methods, (1) ModsNet uses a dynamic, cost-bounded “probe-andselect” strategy to incrementally identify promising pre-trained
+models in a strict cold-start scenario (when a new dataset without
+any interaction with existing models is given). (2) To reduce the
+learning cost, we develop a clustering-based sparsification strategy
 to prune unpromising models and their interactions. (3) We showcase ModsNet built on top of a crowdsourced materials knowledge
 base platform. Our experiments verified its effectiveness, efficiency,
-and applications over real-world analytical pipelines.
+and applications over real-world analytical pipelines
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -56,14 +66,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ""
-# url_code: "https://github.com/HugoBlox/hugo-blox-builder"
-# url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
-# url_poster: ""
-# url_project: ""
-# url_slides: ""
-# url_source: "https://github.com/HugoBlox/hugo-blox-builder"
-# url_video: "https://youtube.com"
+url_pdf: ""
+url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "https://github.com/HugoBlox/hugo-blox-builder"
+url_video: "https://youtube.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
