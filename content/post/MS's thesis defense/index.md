@@ -1,5 +1,5 @@
 ---
-title: 🧠 I successfully completed my Master's thesis defense.
+title: 🎉 I successfully completed my Master's thesis defense.
 summary: I successfully completed my Master's thesis defense.
 date: 2024-01-01
 authors:

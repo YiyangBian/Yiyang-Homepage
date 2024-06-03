@@ -1,14 +1,14 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: ✅ CIKM 2023
+summary: I am very honored to receive the CIKM 2022 conference travel award. See you in Atlanta in October!
+date: 2022-10-23
 authors:
   - admin
 tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
