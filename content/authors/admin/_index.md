@@ -184,4 +184,8 @@ awards:
 
 ## About Me
 
-Yiyang Bian is a PhD student at the University of California, Riverside, where I currently work in the Center for Geospatial Sciences the leadership of Professor Amr Magdy, engaged in mail related to spatial data computing, data management, data analysis and machine learning.
+I am a Ph.D. student in Computer Science at the University of California, Riverside, where I currently working in the Center of Geospatial Sciences center. I am delighted in working with Professor Amr Magdy, maining engaged in spatial data science, data management, query optimization, and machine learning.
+
+During my master's study, I am very lucky to participate in research work in the database laboratory led by Professor Yinghui Wu.
+
+Pleas click the button down below to get my latest Curriculum Vitae!
