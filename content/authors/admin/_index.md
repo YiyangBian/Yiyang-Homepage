@@ -85,28 +85,30 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Software Engineer 
+  - position: Software Engineer
     company_name: BIOINVISION INC.
     company_url: "http://www.bioinvision.com/"
-    company_logo: "https://www.google.com/search?sca_esv=53e748caa665f952&sca_upv=1&q=BIOINVISION+INC.&uds=ADvngMiIMiMH9LyyITANaU-tP7Tx_vWOOAgr_CAWVkgedHB7RfJfRRTBYD81_n5zyHFJW2rWF7JjjSm4MVC2ceof2skjSzRnitKcRKXbYbdOz_uH0iKjmMlyPZlbvW_ETk5sFOz8wsk_Voyur-hlslEU2ObB7x_PgOC4pycezgrEzMOWcBbv5CuTfGWLv36jTBsYaHawr9raPTDLA4M4Q3NWgzE5zGDErpSRZGzKRl8y7GDytdURhiCUWGWKLrXTN_MQyig90zTZ52u1HREQaz7lEJtTviCxofkqvfxFFlVqOW3uf1HJwRa6jhZeDxw_P53-uIpvF0T9aKn8m8StvR_OF80U63DCHA&udm=2&prmd=inmvsbtz&sa=X&ved=2ahUKEwiKm5mD3MKGAxXGEVkFHV-_CckQtKgLegQIDRAB&biw=1280&bih=551&dpr=1.5#vhid=mVSaLW5yGzN3OM&vssid=mosaic"
-    date_start: 2021-01-01
+    company_logo: ""
+    date_start: 2022-03-01
     date_end: ""
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a high-performance C++ medical image processing algorithms for efficient 3D and 2D image processing.
+      - Implemented Azure MongoDB for optimized storage and management of extensive 3D and 2D image datasets, resulting in enhanced data storage and retrieval efficiency.
+      - Built a user-friendly front-end and back-end separation system using Python Flask and Vue, focusing on email-based one-time password (OTP) authentication and permission management.
+      - Collaborated with cross-functional teams for seamless application integration with the company's core platform.
+      - Participate in code review sessions and provide feedback to other team members to ensure code quality and maintainability.
   - position: Backend Software Engineer
-    company_name: X
+    company_name: Kingsoft
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 2021-07-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Participated in Beijing Smart City construction project, developed back-end application interface with Java language in the project, mainly used Spring Boot and Mybatis-Plus framework, and used Maven technology to manage back-end imported packages.
+      - Used Java language to design the interface to read the data in Excel and Word documents and store the data in different objects. Design the database table structure, and finally the data stored in the company's cloud database (Kingsoft Cloud).
+      - Write software documentation, including software usage instructions, testing instructions, and version update plans.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
