@@ -40,7 +40,8 @@ abstract: Data analytical pipelines routinely involve various domain-specific da
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Recommendations
+  - Recommendations System
+  - Graph Learning
   - Data Managemnt Systems
   - Information Retrieval
 
