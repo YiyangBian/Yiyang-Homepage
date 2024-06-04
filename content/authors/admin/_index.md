@@ -53,7 +53,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Computer Science
+  - area: Ph.D Computer Science
     institution: University of California, Riverside
     date_start: 2024-09-01
     date_end: 2028-05-31
