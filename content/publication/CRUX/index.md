@@ -42,10 +42,10 @@ url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 url_code: ""
 url_dataset: ""
 url_poster: ""
-url_project: ""
-url_slides: ""
+url_project: "https://crux-project.github.io/"
+url_slides: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 url_source: ""
-url_video: ""
+url_video: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
