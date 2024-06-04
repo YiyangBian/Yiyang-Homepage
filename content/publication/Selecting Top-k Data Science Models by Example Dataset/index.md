@@ -40,7 +40,9 @@ abstract: Data analytical pipelines routinely involve various domain-specific da
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Recommendations
+  - Data Managemnt Systems
+  - Information Retrieval
 
 # Display this page in the Featured widget?
 featured: true
@@ -55,9 +57,9 @@ url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://dl.acm.org/doi/10.1145/3583780.3615051"
 url_source: ""
-url_video: ""
+url_video: "https://dl.acm.org/doi/10.1145/3583780.3615051"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

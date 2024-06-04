@@ -29,7 +29,8 @@ abstract: Modern multidisciplinary materials science routinely processes scienti
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Data Managemnt Systems
+  - Information Retrieval
 
 featured: true
 
