@@ -85,10 +85,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
+  - position: Software Engineer 
+    company_name: BIOINVISION INC.
+    company_url: "http://www.bioinvision.com/"
+    company_logo: "https://www.google.com/search?sca_esv=53e748caa665f952&sca_upv=1&q=BIOINVISION+INC.&uds=ADvngMiIMiMH9LyyITANaU-tP7Tx_vWOOAgr_CAWVkgedHB7RfJfRRTBYD81_n5zyHFJW2rWF7JjjSm4MVC2ceof2skjSzRnitKcRKXbYbdOz_uH0iKjmMlyPZlbvW_ETk5sFOz8wsk_Voyur-hlslEU2ObB7x_PgOC4pycezgrEzMOWcBbv5CuTfGWLv36jTBsYaHawr9raPTDLA4M4Q3NWgzE5zGDErpSRZGzKRl8y7GDytdURhiCUWGWKLrXTN_MQyig90zTZ52u1HREQaz7lEJtTviCxofkqvfxFFlVqOW3uf1HJwRa6jhZeDxw_P53-uIpvF0T9aKn8m8StvR_OF80U63DCHA&udm=2&prmd=inmvsbtz&sa=X&ved=2ahUKEwiKm5mD3MKGAxXGEVkFHV-_CckQtKgLegQIDRAB&biw=1280&bih=551&dpr=1.5#vhid=mVSaLW5yGzN3OM&vssid=mosaic"
     date_start: 2021-01-01
     date_end: ""
     summary: |2-
