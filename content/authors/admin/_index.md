@@ -186,8 +186,8 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at the University of California, Riverside, where I am currently working in the Center of Geospatial Sciences. I am delighted to work with [Professor Amr Magdy](https://www.cs.ucr.edu/~amr/), mainly engaged in spatial data science, data management, query optimization, and machine learning.
+I am a Ph.D. student in Computer Science at the University of California, Riverside, where I am currently working in the Center of Geospatial Sciences. I am delighted to work with [Prof. Amr Magdy](https://www.cs.ucr.edu/~amr/), mainly engaged in spatial data science, data management, query optimization, and machine learning.
 
-During my master's study, I was very fortunate to participate in research work in the database laboratory led by [Professor Yinghui Wu](https://yinghwu.github.io/).
+During my master's study, I was very fortunate to participate in research work in the database laboratory led by [Prof. Yinghui Wu](https://yinghwu.github.io/).
 
 Pleas click the button down below to get my latest Curriculum Vitae!
