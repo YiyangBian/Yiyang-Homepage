@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yiyangbian/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=fUMyoEQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=xQ1kv14AAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
