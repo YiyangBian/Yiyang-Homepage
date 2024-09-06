@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D Student in Computer Science
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -186,8 +186,8 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at the University of California, Riverside, where I currently working in the Center of Geospatial Sciences center. I am delighted in working with Professor Amr Magdy, maining engaged in spatial data science, data management, query optimization, and machine learning.
+I am a Ph.D. student in Computer Science at the University of California, Riverside, where I am currently working in the Center of Geospatial Sciences. I am delighted to work with [Professor Amr Magdy](https://www.cs.ucr.edu/~amagdy/), mainly engaged in spatial data science, data management, query optimization, and machine learning.
 
-During my master's study, I am very lucky to participate in research work in the database laboratory led by Professor Yinghui Wu.
+During my master's study, I was very fortunate to participate in research work in the database laboratory led by [Professor Yinghui Wu](https://yinghwu.github.io/).
 
 Pleas click the button down below to get my latest Curriculum Vitae!
