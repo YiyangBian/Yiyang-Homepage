@@ -1,5 +1,5 @@
 ---
-title: "ModsNet: Performance-aware Top-𝑘 Model Search using Exemplar Datasets"
+title: "ModsNet: Performance-aware Top-k Model Search using Exemplar Datasets"
 authors:
   - Mengying Wang
   - Sheng Guan
