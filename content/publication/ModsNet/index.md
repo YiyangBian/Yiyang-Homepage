@@ -46,7 +46,7 @@ url_poster: ""
 url_project: "https://crux-project.github.io/"
 url_slides: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 url_source: ""
-url_video: "https://dl.acm.org/doi/10.1145/3583780.3615051"
+# url_video: "https://dl.acm.org/doi/10.1145/3583780.3615051"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
