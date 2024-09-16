@@ -1,7 +1,7 @@
 ---
 title: "CRUX: Crowdsourced Materials Science Resource and Workflow Exploration"
 authors:
-  - engying Wang
+  - Mengying Wang
   - Sheng Guan
   - Hanchao Ma
   - admin
