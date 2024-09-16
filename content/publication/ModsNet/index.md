@@ -39,14 +39,14 @@ featured: true
 #   - name: Custom Link
 #     url: http://example.org
 
-url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
+url_pdf: "https://www.vldb.org/pvldb/vol17/p4457-wang.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: "https://crux-project.github.io/"
 url_slides: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
 url_source: ""
-url_video: "https://dl.acm.org/doi/pdf/10.1145/3511808.3557194"
+url_video: "https://dl.acm.org/doi/10.1145/3583780.3615051"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
